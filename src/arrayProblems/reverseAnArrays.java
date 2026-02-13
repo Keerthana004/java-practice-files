@@ -39,3 +39,16 @@ public class reverseAnArrays {
     }
 
 }
+/*
+Enter the size of the array:
+5
+Enter the elements of the array:
+1
+4
+7
+8
+5
+[1, 4, 7, 8, 5]
+Array after reversing:
+[5, 8, 7, 4, 1]
+ */

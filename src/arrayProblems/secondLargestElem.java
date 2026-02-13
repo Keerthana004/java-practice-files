@@ -19,3 +19,15 @@ public class secondLargestElem {
         System.out.println("The second elem: "+ arr[len-2]);
     }
 }
+/*
+Enter the size of the array:
+5
+Enter the elements of the array:
+1
+4
+4
+5
+8
+[1, 4, 4, 5, 8]
+The second elem: 5
+ */
